@@ -52,8 +52,8 @@ body{
 }
 .vid{
 	padding: 20px;
-	padding-left: 350px;
 	margin: auto;
+	width: 45%;
 }
 #content{
 	margin: auto;
