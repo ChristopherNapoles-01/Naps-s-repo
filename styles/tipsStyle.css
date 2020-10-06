@@ -123,12 +123,11 @@ body{
 
 #footing{
 	margin-top: 100px;
-	background-color:lightblue;
 	padding: 10px;
 	margin-left: -10px;
 	margin-right: -10px;
 }
 #footing p{
 	text-align: center;
-	color: black;
+	color: whitesmoke;
 }
