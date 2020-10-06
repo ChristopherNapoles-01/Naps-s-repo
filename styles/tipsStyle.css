@@ -65,7 +65,6 @@ body{
 	width: 95%;
 	margin: auto;
 	padding-bottom: 20px;
-
 }
 #secContainer img{
 	height: 250px;
@@ -75,6 +74,44 @@ body{
 	margin-right:10px;
 	margin-bottom: 10px;
 	float: left;
+	border-radius: 5px;
+}
+#section1{
+	background-color: #140d43;
+	padding-right: : 20px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 110px;
+	border-radius: 5px;
+}
+#section1 p{
+	padding-top: 30px;
+	font-size: 18px;
+	margin-left: 20px;
+	line-height: 2em;
+
+}
+.sectionlong{
+	background-color: #140d43;
+	padding-right: : 20px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+
+}
+.sectionlong p{
+	padding-top: 30px;
+	font-size: 18px;
+	margin-left: 20px;
+	line-height: 2em;
+}
+.sections{
+	background-color: #140d43;
+	padding-right: : 20px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 70px;
 	border-radius: 5px;
 }
 .sections p{
