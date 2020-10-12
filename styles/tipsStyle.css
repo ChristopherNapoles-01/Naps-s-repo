@@ -56,7 +56,6 @@ body{
 .tipTitle{
 	font-size: 20px;
 	font-weight: bold;
-	font-family: tahoma;
 	text-decoration: underline;
 	margin-left: 0px;
 	margin-top: 20px;
@@ -158,32 +157,39 @@ body{
 	line-height: 2em;
 }
 #redirect{
+	width: 95%;
 	margin: auto;
+	min-width: 1200px;
 }
 #redirect img{
 	height: 200px;
 	width: 250px;
 	padding:30px;
-	padding-right: 50px;
-	margin-left: 60px;
+	padding-right: 35px;
+	margin-left: 55px;
 }
-#redirect a {
+#redirect div {
 	display: inline;
-	border-radius: 10px;
 }
 #redirect p {
 	font-size: 20px;
 	font-weight: bold;
-	font-family: tahoma;
 	margin-left: 0px;
 	margin-top: 20px;
 	text-align: center;
 }
+#redirect a {
+	color:whitesmoke;
+	text-decoration: none;
+}
+#redirect b {
+	margin-left: 180px;
+	padding-right: 127px;
+}
 #footing{
 	margin-top: 50px;
 	padding: 10px;
-	margin-left: -10px;
-	margin-right: -10px;
+	
 }
 #footing p{
 	text-align: center;
