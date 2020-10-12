@@ -170,6 +170,7 @@ body{
 }
 #redirect div {
 	display: inline;
+	margin: auto;
 }
 #redirect p {
 	font-size: 20px;
